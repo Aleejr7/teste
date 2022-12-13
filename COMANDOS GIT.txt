@@ -1,0 +1,6 @@
+criar pasta e jogar no terminal (para pegar o diretorio)
+git init
+git add
+git commit -m "teste (mensagem do commit)"
+git remote add origin "link do repo"
+git push -u origin master
